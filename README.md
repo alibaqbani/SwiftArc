@@ -30,7 +30,7 @@ SwiftArc is built for iOS developers who need a reliable architecture that scale
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/SwiftArc.git
+   git clone https://github.com/alibaqbani/SwiftArc.git
    ```
 2. Open `SwiftArc.xcodeproj` in Xcode.
 3. Build and run the app to explore the default setup.

@@ -81,6 +81,4 @@ See [CONTRIBUTING.md](#) (to be added) for details.
 SwiftArc is released under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
-Crafted by [YourName] with inspiration from the SwiftUI and iOS development community.
-
-What do you think—ready to push this to your repo? Any final adjustments?
+Crafted by Ali Baqbani with inspiration from the SwiftUI and iOS development community.
